@@ -7,7 +7,7 @@ Build and use the `cs8803drl` environment as follows. For this homework, we only
 
 
 ### MuJoCo installation
-Installation instructions for Mac and Linux can be found [here](https://github.com/openai/mujoco-py?tab=readme-ov-file#install-mujoco). You only need to do stuff in the section named 'Install MuJoCo'. 
+Installation instructions for Mac and Linux can be found [here](https://gicthub.com/openai/mujoco-py?tab=readme-ov-file#install-mujoco). You only need to do stuff in the section named 'Install MuJoCo'. 
 
 For Windows users, we recommend either running with Google Colab. MuJoCo has been supported on Windows in the past, but that is deprecated and the TAs do not have the capacity to assist with getting this running.
 
